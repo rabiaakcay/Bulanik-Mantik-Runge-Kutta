@@ -1,1 +1,1 @@
-# Bulanik-Mantik-Runge-Kutta
+# Fuzzy-Logic-Runge-Kutta
